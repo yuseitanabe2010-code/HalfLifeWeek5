@@ -20,4 +20,5 @@ In this part of the code, it defines varibales such as the title, artist, and et
 Lastly, this part takes the ratio of current time over the total length of the song, and fills in the progress bar accordingly. It then prints that, along with the current time and total time, updating every second.
 <img width="896" height="305" alt="week5code3" src="https://github.com/user-attachments/assets/5d546cb5-6630-44ee-9bfb-59c1c588cc70" />
 
+<img width="1871" height="208" alt="Screenshot 2026-11-08 225808" src="https://github.com/user-attachments/assets/6973799b-0c32-4701-b2f4-98abb6b33a5d" />
 
