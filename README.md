@@ -20,9 +20,4 @@ In this part of the code, it defines varibales such as the title, artist, and et
 Lastly, this part takes the ratio of current time over the total length of the song, and fills in the progress bar accordingly. It then prints that, along with the current time and total time, updating every second.
 <img width="896" height="305" alt="week5code3" src="https://github.com/user-attachments/assets/5d546cb5-6630-44ee-9bfb-59c1c588cc70" />
 
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Raspberry Pi Pico W,1,AliExpress,$1.09,$1.09,https://www.aliexpress.us/item/3256811531564621.html?spm=a2g0o.order_list.order_list_main.5.493d18024XxoOC&gatewayAdapt=glo2usa
-1x08 pin right angle adapter,1,AliExpress,$1.01,$1.01,https://www.aliexpress.us/item/3256807383526945.html?spm=a2g0o.cart.0.0.3c0e38daB5c1QR&mp=1&pdp_npi=6%40dis%21USD%21USD+1.16%21USD+1.01%21%21USD+1.01%21%21%21%4021032c8d17941825943382731e0ef4%2112000041441724078%21ct%21US%218413966454%21%211%210%21&gatewayAdapt=glo2usa
-1.69in LCD Display,1,Amazon,$14.39,$14.39,https://www.amazon.com/gp/product/B0C238JCLH/ref=ewc_pr_img_1?smid=A2SA28G0M1VPHD&psc=1
-PCB,1,JLCPCB,$4.00,$4.00,https://cart.jlcpcb.com/shopcart/cart/
-Estimated total shipping,1,,,$6.22,
+
